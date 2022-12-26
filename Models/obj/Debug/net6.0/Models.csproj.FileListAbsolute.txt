@@ -1,0 +1,12 @@
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\bin\Debug\net6.0\Models.deps.json
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\bin\Debug\net6.0\Models.dll
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\bin\Debug\net6.0\Models.pdb
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\obj\Debug\net6.0\Models.dll
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\obj\Debug\net6.0\Models.pdb
+C:\Users\NGUU\Desktop\LearningPlace\EF_Core_In_Action\C2_BookSellingSite\Models\obj\Debug\net6.0\ref\Models.dll
